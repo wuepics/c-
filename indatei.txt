@@ -1,0 +1,5 @@
+Drcken Sie eine beliebige Taste . . . 
+Das Programm wurde gestartet
+Seite 28 Grundkurs c++ Buch
+
+in Konsole (listing01 > indatei.txt
