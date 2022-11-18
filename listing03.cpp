@@ -1,4 +1,4 @@
-//listings/o2/listing03.cpp
+///listings/o2/listing03.cpp
 #include<cstdlib>
 #include<iostream>
 int main (){
