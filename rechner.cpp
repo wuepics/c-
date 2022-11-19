@@ -6,12 +6,12 @@ int main(){
 int a;
     std::cout << "Wert =\n";
     std::cin >> a;
-int b; 
+int b;
     std::cout << "Wert =\n";
     std::cin >> b;
     std::cout << endl;
 std::cout << a << "+" << b << "=";
-std::cout << a+b;   
+std::cout << a+b;
 std::cout << endl;
 int erg = a+b;
 int prozent = erg/100;
@@ -21,5 +21,8 @@ std::cout << "1 Prozent von " << erg << " sind " << prozent;
 std::cout << endl;
 std::cout << endl;
 std::cout << " Wird bei Prozent null angezeigt, dann betraegt das Ergebnis unter 0";
+std::cout << endl;
+std::cout << endl;
+system ("Pause"); // Ausklammern für Linux Anwendung
 return 0;
 }
