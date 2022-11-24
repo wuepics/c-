@@ -1,0 +1,4 @@
+Vokabeltrainer
+Bitte treffe eine Auswahl:
+(1) Neue Vokabel hinzufügen
+(2) Vokabeltest starten
